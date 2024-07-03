@@ -17,7 +17,7 @@ npm install<br>
 
 <h3>Usage</h3>
 // in backend<br>
-nodemon server<br>
+node server.js or, nodemon server<br>
 <br>
 // in frontend<br>
 npm run start<br>
